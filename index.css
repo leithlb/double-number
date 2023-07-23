@@ -1,5 +1,6 @@
 body {
     background-image: url("multiplication.png");
+    background-position-y: 50%;
     background-repeat: no-repeat;
     background-size: 100%;
     font-family: 'Tektur', cursive;
